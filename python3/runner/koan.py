@@ -18,6 +18,6 @@ ____ = "-=> TRUE OR FALSE? <=-"
 
 _____ = 0
 
-
+#unittest=module, Koan is a subclass of TestCase
 class Koan(unittest.TestCase):
     pass
